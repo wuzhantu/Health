@@ -1,0 +1,6 @@
+framework module Health {
+  umbrella header "Health-umbrella.h"
+
+  export *
+  module * { export * }
+}

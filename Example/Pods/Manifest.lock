@@ -1,0 +1,16 @@
+PODS:
+  - Health (0.1.0)
+
+DEPENDENCIES:
+  - Health (from `../`)
+
+EXTERNAL SOURCES:
+  Health:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Health: 1b8041dcee51e7fc558fe18aa7ffb76fef291017
+
+PODFILE CHECKSUM: e7c5fa05b5fa53d32b024bb2938a37be66112c99
+
+COCOAPODS: 1.10.0
